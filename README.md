@@ -1,3 +1,5 @@
 # Barra-BEM
 
-Enter Manufacturer State
+Enter Manufacturer State. 
+
+`python, pythom-can, socketcan`
