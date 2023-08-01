@@ -2,4 +2,4 @@
 
 Enter Manufacturer State. 
 
-`python, pythom-can, socketcan`
+`python3, python-can, socketCAN`
