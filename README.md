@@ -5,6 +5,9 @@
 
 ## EEPROM access via CAN Calibration Protocol.
 
+Module:  
+`BA Falcon Body Electronic Module`
+
 Platform:  
 `Linux with SocketCAN interface`
   
